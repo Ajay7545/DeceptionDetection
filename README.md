@@ -1,7 +1,7 @@
 # DeceptionDetection
 Deception Detection Project using EEG Classification (Machine Learning Project)
 
-Deception detection, brain signals are usefull in lie detetction. As Electroencephalogram signals reveal fine features of state of mind of subject and thoughts of subject make it better tool for lie detection. 
+Deception detection, brain signals are useful in lie detetction. As Electroencephalogram signals reveal fine features of state of mind of subject and thoughts of subject make it better tool for lie detection. 
 The main purpose of this project is to enhance the existing methods for classifying the familiar and unfamiliar face images. There are numeraous experiments were done on visual stimuli based EEG signals.
 In this project we will try to classify the familiar and unfamiliar visual stimuli obtaied in the form of EEG from subject. As the EEG signals are bilogical and non stationary in nature and time series, we will try to obtain the,
 component aof EEG though some data driven approaches by decomposing them. We try to build new deep learning model for the classification of familiar and unfamilar images.
